@@ -1,0 +1,23 @@
+.itemInst {
+  display: inline-grid; *display: inline; 
+  width : 260px;
+  margin: 25px;
+
+}
+
+.itemInst.highlight{
+  background-color:  #6B8E23; 
+}
+
+.itemInst img{
+  margin:10px;
+}
+
+.fetchBtns{
+  margin: 30px;
+}
+
+.fetchBtns * {
+    margin: 20px ;
+}
+
